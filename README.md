@@ -4,8 +4,8 @@ Block commands.
 
 ### Permissions
 
-* **commandblocker.allow.\<command\>** - Explictly allow a user to use a filtered command
-* **commandblocker.block.\<command\>** - Explictly prevent a user from using a non-filtered command
+* **commandblocker.allow.\<command\>** - Explicitly allow a user to use a filtered command
+* **commandblocker.block.\<command\>** - Explicitly prevent a user from using a non-filtered command
 
 ### Config
 ```
